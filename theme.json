@@ -22,9 +22,9 @@
         "color" : "#F2F3F37F"
       },
       "iconPaddingHorizontal" : 5,
-      "roundness" : 0,
+      "roundness" : 5,
       "paddingVertical" : 2,
-      "iconSize" : 40
+      "iconSize" : 48
     },
     "search" : {
       "backgroundSelected" : "#FFEFAFFF",
